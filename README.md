@@ -23,8 +23,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashmita001&theme=flat" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashmita001&theme=radical" alt="GitHub Trophies" />
 </p>
+
+### visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Ashmita001&color=blue)
+
 
 
 ### Apertre 2.0 badges
