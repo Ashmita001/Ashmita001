@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Ashmita 👋</h1>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita001&theme=react-dark" alt="Ashmita001's Activity Graph" />
+</p>
 
 ---
 
