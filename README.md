@@ -44,13 +44,13 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ashmita001/Ashmita001/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
+-->
 ---
 
 ### 🌟 Apertre 2.0 Badges
