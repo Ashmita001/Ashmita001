@@ -3,6 +3,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita001&theme=react-dark" alt="Ashmita001's Activity Graph" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Ashmita001/Ashmita001/main/github-metrics.svg" alt="Metrics" />
+
+
 ---
 
 ### 💼 About Me
