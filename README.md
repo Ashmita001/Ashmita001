@@ -1,10 +1,4 @@
 <h1 align="center">Hi there, I'm Ashmita 👋</h1>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita001&theme=react-dark" alt="Ashmita001's Activity Graph" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Ashmita001/Ashmita001/main/github-metrics.svg" alt="Metrics" />
-
 
 ---
 
@@ -35,7 +29,7 @@
 
 ---
 
-### 👀 Visitors
+### 👀 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashmita001&color=blue" alt="Visitor Count" />
@@ -46,7 +40,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashmita001&theme=react-dark" alt="Ashmita001's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmita001&theme=react-dark" alt="Ashmita001's Activity Graph" />
 </p>
 
 ---
