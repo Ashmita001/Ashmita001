@@ -29,6 +29,9 @@
 ### visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ashmita001&color=blue)
 
+![Ashmita001's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashmita001&theme=react-dark)
+<!-- https://github.com/lowlighter/metrics -->
+<img src="https://raw.githubusercontent.com/Ashmita001/Ashmita001/main/github-metrics.svg" alt="Metrics">
 
 
 ### Apertre 2.0 badges
